@@ -14,7 +14,7 @@
 
 <p align="left">I'm Daniel from NY<br><br>- 🔭 I’m working as contractor<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I like to code</p>
 <p align="left">Student at <img height="40" src="MU.jpg"/> studying CIS and Business Analytics</p>
-![image](https://github.com/user-attachments/assets/d7d59a9e-df12-4a08-80cd-bda898e691d9)
+
 
 ###
 
@@ -32,7 +32,7 @@
   <img height="32" width="32" src="https://cdn.simpleicons.org/git" height="40" alt="git" />
   <img width="12" />
 </div>
-![image](https://github.com/user-attachments/assets/9e1425c2-34f9-4fae-9efb-f7fa095f8a24)
+
 
 
 ###
