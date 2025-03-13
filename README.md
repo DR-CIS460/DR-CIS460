@@ -35,7 +35,8 @@
   <img width="12" />
   <img height="32" width="32" src="ibis.jpg" height="40" alt="Ibis" />
   <img width="12" />
- 
+  <img height="32" width="32" src="taipy.svg" height="40" alt="Taipy" />
+  <img width="12" />
 </div>
 
 
