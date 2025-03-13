@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/gifs/pokemon-jpn-7rwetR1oo7XsV9vUsf/giphy.gif"/>
+  <img height="150" src="https://media.giphy.com/gif/pokemon-jpn-7rwetR1oo7XsV9vUsf/giphy.gif"/>
 </div>
 
 ###
